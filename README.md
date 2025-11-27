@@ -305,8 +305,8 @@
 <img width="812" height="412" src="https://github.com/user-attachments/assets/998e2da9-2b26-4650-b0fa-9cadd96e569c" />
 
 
-*가디온(GUARDION)*은
 
+가디온(GUARDION)은
 * 보이스피싱에 가장 취약한 **시니어층**을 보호하고
 * **AI 기술 + 보호자 연동 + 공공기관 협력**을 결합해
 * 금융 취약계층 보호와 사회 안전망 확장을 지향하는 **ESG형 서비스**입니다.
