@@ -1,7 +1,5 @@
 # Voice-Phishing_HITL(Human-in-the-Loop)
 ---
-<img width="477" height="716" alt="image" src="https://github.com/user-attachments/assets/521efcfc-4abb-47c5-adf1-59ac86caaedf" />
----
 본 프로젝트에서 저는 **IT·AI 기술 총괄 역할**을 맡아,
 서비스 전체의 **AI 구조 설계, HITL(Human-in-the-Loop) 방식 도입, 데이터 파이프라인 구성, GNN 모델 구조 정의, 보호자 연동 시스템 설계, 서버 중심 하이브리드 아키텍처 구성** 등의 핵심 기술 요소를 담당하였습니다.
 
@@ -40,7 +38,8 @@
 * 기술적 기대효과(성능 향상, GPU 비용 절감, 실시간 학습 가능성) 도출
 
 ---
-
+<img width="477" height="716" alt="image" src="https://github.com/user-attachments/assets/521efcfc-4abb-47c5-adf1-59ac86caaedf" />
+---
 
 <img width="1051" height="712" alt="image" src="https://github.com/user-attachments/assets/9f1277a4-0b25-4a43-94a7-d6fa3408cb12" />
 경찰청 자료 조사에 따르면, 보이스피싱 피해액은 전년도 1월에서 7월 대비98.7%의 증가율을 보이고 있습니다. 그 중, 50대 이상 연령층이 전체의 53%를 차지하며 집중 타깃이 되고 있습니다. 2023년 32%였던 비중이 2025년에는 53%를 기록하며 지속적인 증가 추세를 보이고 있습니다. 
