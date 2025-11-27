@@ -1,4 +1,4 @@
-# Voice-Phishing_HITL(Human-in-the-Loop)
+### Voice-Phishing_HITL(Human-in-the-Loop)
 ---
 본 프로젝트에서 저는 **IT·AI 기술 총괄 역할**을 맡아,
 서비스 전체의 **AI 구조 설계, HITL(Human-in-the-Loop) 방식 도입, 데이터 파이프라인 구성, GNN 모델 구조 정의, 보호자 연동 시스템 설계, 서버 중심 하이브리드 아키텍처 구성** 등의 핵심 기술 요소를 담당하였습니다.
@@ -39,6 +39,8 @@
 
 ---
 <img width="477" height="716" alt="image" src="https://github.com/user-attachments/assets/521efcfc-4abb-47c5-adf1-59ac86caaedf" />
+
+
 ---
 
 <img width="1051" height="712" alt="image" src="https://github.com/user-attachments/assets/9f1277a4-0b25-4a43-94a7-d6fa3408cb12" />
