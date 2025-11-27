@@ -304,6 +304,7 @@
 
 <img width="812" height="412" src="https://github.com/user-attachments/assets/998e2da9-2b26-4650-b0fa-9cadd96e569c" />
 
+
 **가디온(GUARDION)**은
 
 * 보이스피싱에 가장 취약한 **시니어층**을 보호하고
